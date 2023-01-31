@@ -1,0 +1,5 @@
+print("Hi", "Welcome to some print examples", end="[applause]\n", sep="!")
+print("I cannot be very creative because this is the only thing I can code")
+print("But look:", "I", 1+1, "can", 2+2, "insert", 3+3, "numbers", 4+4, "in", 5+5, "between!")
+print("And", "also", "other", "things", "using", "sep", sep="[so cool!]")
+print("So cool, isn't it?")
